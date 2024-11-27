@@ -13,12 +13,7 @@ A responsive portfolio website showcasing my projects and skills.
 - JavaScript
 
 ## Setup
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/K1NGOAT/A-Portfolio-Website.git
 
-## Live Demo
-[Portfolio Website](http://your-portfolio-link.com)
-
-## Screenshots
-![Portfolio Screenshot](link-to-screenshot)
