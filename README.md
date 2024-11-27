@@ -1,6 +1,6 @@
 # A-Portfolio-Website
 ## Description
-A responsive photography portfolio website showcasing my pictures and skils.
+A responsive photography portfolio website showcasing pictures and skils.
 
 ## Features
 - Responsive design for all devices
