@@ -1,4 +1,4 @@
-# A-Portfolio-Website
+# Responsive-Photography-Portfolio-Website
 ## Description
 A responsive photography portfolio website showcasing pictures and skills. This project highlights my ability to create visually appealing and user-friendly websites.
 
